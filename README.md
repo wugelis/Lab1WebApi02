@@ -1,1 +1,1 @@
-first commit
+# Use .NET Standard to Build Cross App

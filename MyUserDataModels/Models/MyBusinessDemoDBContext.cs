@@ -31,7 +31,7 @@ namespace MyUserDataModels.Models
             if (!optionsBuilder.IsConfigured)
             {
 //#warning To protect potentially sensitive information in your connection string, you should move it out of source code. See http://go.microsoft.com/fwlink/?LinkId=723263 for guidance on storing connection strings.
-				optionsBuilder.UseSqlServer("Server=10.211.55.3\\MSSQLSERVER2016;Database=MyBusinessDemoDB;User Id=sa;Password=GELISpass01;Trusted_Connection=False;");
+				optionsBuilder.UseSqlServer("Server=10.211.55.3\\MSSQLSERVER2016;Database=MyBusinessDemoDB;User Id=sa;Password=[yourPassword];Trusted_Connection=False;");
             }
         }
 
