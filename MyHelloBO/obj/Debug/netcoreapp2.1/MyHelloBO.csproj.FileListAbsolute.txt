@@ -1,0 +1,12 @@
+/Users/Gelis/Projects/dotNET Conf 2018/Lab1WebApi02/MyHelloBO/bin/Debug/netcoreapp2.1/MyHelloBO.deps.json
+/Users/Gelis/Projects/dotNET Conf 2018/Lab1WebApi02/MyHelloBO/bin/Debug/netcoreapp2.1/MyHelloBO.dll
+/Users/Gelis/Projects/dotNET Conf 2018/Lab1WebApi02/MyHelloBO/bin/Debug/netcoreapp2.1/MyHelloBO.pdb
+/Users/Gelis/Projects/dotNET Conf 2018/Lab1WebApi02/MyHelloBO/obj/Debug/netcoreapp2.1/MyHelloBO.csprojAssemblyReference.cache
+/Users/Gelis/Projects/dotNET Conf 2018/Lab1WebApi02/MyHelloBO/obj/Debug/netcoreapp2.1/MyHelloBO.csproj.CoreCompileInputs.cache
+/Users/Gelis/Projects/dotNET Conf 2018/Lab1WebApi02/MyHelloBO/obj/Debug/netcoreapp2.1/MyHelloBO.AssemblyInfoInputs.cache
+/Users/Gelis/Projects/dotNET Conf 2018/Lab1WebApi02/MyHelloBO/obj/Debug/netcoreapp2.1/MyHelloBO.AssemblyInfo.cs
+/Users/Gelis/Projects/dotNET Conf 2018/Lab1WebApi02/MyHelloBO/obj/Debug/netcoreapp2.1/MyHelloBO.dll
+/Users/Gelis/Projects/dotNET Conf 2018/Lab1WebApi02/MyHelloBO/obj/Debug/netcoreapp2.1/MyHelloBO.pdb
+/Users/Gelis/Projects/dotNET Conf 2018/Lab1WebApi02/MyHelloBO/bin/Debug/netcoreapp2.1/MyUserDataModels.dll
+/Users/Gelis/Projects/dotNET Conf 2018/Lab1WebApi02/MyHelloBO/bin/Debug/netcoreapp2.1/MyUserDataModels.pdb
+/Users/Gelis/Projects/dotNET Conf 2018/Lab1WebApi02/MyHelloBO/obj/Debug/netcoreapp2.1/MyHelloBO.csproj.CopyComplete

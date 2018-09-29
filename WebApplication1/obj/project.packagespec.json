@@ -1,0 +1,61 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/Gelis/Projects/dotNET Conf 2018/Lab1WebApi02/WebApplication1/WebApplication1.csproj",
+    "projectName": "WebApplication1",
+    "projectPath": "/Users/Gelis/Projects/dotNET Conf 2018/Lab1WebApi02/WebApplication1/WebApplication1.csproj",
+    "outputPath": "/Users/Gelis/Projects/dotNET Conf 2018/Lab1WebApi02/WebApplication1/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.1"
+    ],
+    "frameworks": {
+      "netcoreapp2.1": {
+        "projectReferences": {
+          "/Users/Gelis/Projects/dotNET Conf 2018/Lab1WebApi02/MyHelloBO/MyHelloBO.csproj": {
+            "projectPath": "/Users/Gelis/Projects/dotNET Conf 2018/Lab1WebApi02/MyHelloBO/MyHelloBO.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.1": {
+      "dependencies": {
+        "Microsoft.AspNetCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.1, )",
+          "autoReferenced": true
+        },
+        "Microsoft.EntityFrameworkCore.SqlServer": {
+          "target": "Package",
+          "version": "[2.1.2, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.0, )",
+          "autoReferenced": true
+        },
+        "StdEasyArchitect.Web.WebApiHostBase": {
+          "target": "Package",
+          "version": "[1.0.0, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

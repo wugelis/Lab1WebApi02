@@ -1,0 +1,32 @@
+D:/Temp/.NET Conf 2018 Labs/Std20EasyArchitect/MyUserDataModels/bin/Debug/netcoreapp2.1/MyUserDataModels.deps.json
+D:/Temp/.NET Conf 2018 Labs/Std20EasyArchitect/MyUserDataModels/bin/Debug/netcoreapp2.1/MyUserDataModels.dll
+D:/Temp/.NET Conf 2018 Labs/Std20EasyArchitect/MyUserDataModels/obj/Debug/netcoreapp2.1/MyUserDataModels.csproj.CoreCompileInputs.cache
+D:/Temp/.NET Conf 2018 Labs/Std20EasyArchitect/MyUserDataModels/obj/Debug/netcoreapp2.1/MyUserDataModels.AssemblyInfoInputs.cache
+D:/Temp/.NET Conf 2018 Labs/Std20EasyArchitect/MyUserDataModels/obj/Debug/netcoreapp2.1/MyUserDataModels.AssemblyInfo.cs
+D:/Temp/.NET Conf 2018 Labs/Std20EasyArchitect/MyUserDataModels/bin/Debug/netcoreapp2.1/MyUserDataModels.runtimeconfig.json
+D:/Temp/.NET Conf 2018 Labs/Std20EasyArchitect/MyUserDataModels/bin/Debug/netcoreapp2.1/MyUserDataModels.runtimeconfig.dev.json
+D:/Temp/.NET Conf 2018 Labs/Std20EasyArchitect/MyUserDataModels/bin/Debug/netcoreapp2.1/MyUserDataModels.pdb
+D:/Temp/.NET Conf 2018 Labs/Std20EasyArchitect/MyUserDataModels/obj/Debug/netcoreapp2.1/MyUserDataModels.dll
+D:/Temp/.NET Conf 2018 Labs/Std20EasyArchitect/MyUserDataModels/obj/Debug/netcoreapp2.1/MyUserDataModels.pdb
+D:/Temp/.NET Conf 2018 Labs/Std20EasyArchitect/MyUserDataModels/obj/Debug/netcoreapp2.1/MyUserDataModels.csprojAssemblyReference.cache
+/Users/Gelis/Projects/dotNET Conf 2018/Std20EasyArchitect/MyUserDataModels/bin/Debug/netcoreapp2.1/MyUserDataModels.deps.json
+/Users/Gelis/Projects/dotNET Conf 2018/Std20EasyArchitect/MyUserDataModels/bin/Debug/netcoreapp2.1/MyUserDataModels.runtimeconfig.json
+/Users/Gelis/Projects/dotNET Conf 2018/Std20EasyArchitect/MyUserDataModels/bin/Debug/netcoreapp2.1/MyUserDataModels.runtimeconfig.dev.json
+/Users/Gelis/Projects/dotNET Conf 2018/Std20EasyArchitect/MyUserDataModels/bin/Debug/netcoreapp2.1/MyUserDataModels.dll
+/Users/Gelis/Projects/dotNET Conf 2018/Std20EasyArchitect/MyUserDataModels/bin/Debug/netcoreapp2.1/MyUserDataModels.pdb
+/Users/Gelis/Projects/dotNET Conf 2018/Std20EasyArchitect/MyUserDataModels/obj/Debug/netcoreapp2.1/MyUserDataModels.csproj.CoreCompileInputs.cache
+/Users/Gelis/Projects/dotNET Conf 2018/Std20EasyArchitect/MyUserDataModels/obj/Debug/netcoreapp2.1/MyUserDataModels.AssemblyInfoInputs.cache
+/Users/Gelis/Projects/dotNET Conf 2018/Std20EasyArchitect/MyUserDataModels/obj/Debug/netcoreapp2.1/MyUserDataModels.AssemblyInfo.cs
+/Users/Gelis/Projects/dotNET Conf 2018/Std20EasyArchitect/MyUserDataModels/obj/Debug/netcoreapp2.1/MyUserDataModels.dll
+/Users/Gelis/Projects/dotNET Conf 2018/Std20EasyArchitect/MyUserDataModels/obj/Debug/netcoreapp2.1/MyUserDataModels.pdb
+/Users/Gelis/Projects/dotNET Conf 2018/Lab1WebApi02/MyUserDataModels/bin/Debug/netcoreapp2.1/MyUserDataModels.deps.json
+/Users/Gelis/Projects/dotNET Conf 2018/Lab1WebApi02/MyUserDataModels/bin/Debug/netcoreapp2.1/MyUserDataModels.runtimeconfig.json
+/Users/Gelis/Projects/dotNET Conf 2018/Lab1WebApi02/MyUserDataModels/bin/Debug/netcoreapp2.1/MyUserDataModels.runtimeconfig.dev.json
+/Users/Gelis/Projects/dotNET Conf 2018/Lab1WebApi02/MyUserDataModels/bin/Debug/netcoreapp2.1/MyUserDataModels.dll
+/Users/Gelis/Projects/dotNET Conf 2018/Lab1WebApi02/MyUserDataModels/bin/Debug/netcoreapp2.1/MyUserDataModels.pdb
+/Users/Gelis/Projects/dotNET Conf 2018/Lab1WebApi02/MyUserDataModels/obj/Debug/netcoreapp2.1/MyUserDataModels.csprojAssemblyReference.cache
+/Users/Gelis/Projects/dotNET Conf 2018/Lab1WebApi02/MyUserDataModels/obj/Debug/netcoreapp2.1/MyUserDataModels.csproj.CoreCompileInputs.cache
+/Users/Gelis/Projects/dotNET Conf 2018/Lab1WebApi02/MyUserDataModels/obj/Debug/netcoreapp2.1/MyUserDataModels.AssemblyInfoInputs.cache
+/Users/Gelis/Projects/dotNET Conf 2018/Lab1WebApi02/MyUserDataModels/obj/Debug/netcoreapp2.1/MyUserDataModels.AssemblyInfo.cs
+/Users/Gelis/Projects/dotNET Conf 2018/Lab1WebApi02/MyUserDataModels/obj/Debug/netcoreapp2.1/MyUserDataModels.dll
+/Users/Gelis/Projects/dotNET Conf 2018/Lab1WebApi02/MyUserDataModels/obj/Debug/netcoreapp2.1/MyUserDataModels.pdb
